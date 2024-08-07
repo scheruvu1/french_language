@@ -1,1 +1,1 @@
-# french_language
+Replication data and code for Cheruvu, Sivaram. "How do institutional constraints affect judicial decision-making? The European Court of Justice’s French language mandate." European Union Politics 20, no. 4 (2019): 562-583.
